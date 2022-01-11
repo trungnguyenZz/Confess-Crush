@@ -5,7 +5,7 @@ const CONFIG = {
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim e lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: 'HiHi',
     title: 'Em ơi mình đã iu nhau được 2 năm rùi đấy. Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy 🥰',
     desc: 'Anh biết anh hay làm em giận. Cho anh xin lũi nhaa  😘😘',
     btnYes: 'Oki anh <33',
